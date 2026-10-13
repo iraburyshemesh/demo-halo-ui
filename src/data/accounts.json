@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1aaf5e37-311d-41b5-aa83-a3d351cbd3ff",
+    "name": "Halvorson, Mertz and Runte",
+    "companyName": "Halvorson, Mertz and Runte",
+    "companySize": "11–50",
+    "industry": "Manufacturing",
+    "planTier": "Free",
+    "createdAt": "2026-05-25T11:54:43.530Z"
+  },
+  {
+    "id": "03ccd940-aa76-4369-a860-c4b0e9f9e294",
+    "name": "Cruickshank, Cummerata and Torphy",
+    "companyName": "Cruickshank, Cummerata and Torphy",
+    "companySize": "11–50",
+    "industry": "Manufacturing",
+    "planTier": "Pro",
+    "createdAt": "2025-03-25T22:02:41.995Z"
+  },
+  {
+    "id": "7e21cdc7-4480-496f-b80c-26e465c5ca3a",
+    "name": "Maggio LLC",
+    "companyName": "Maggio LLC",
+    "companySize": "201–1,000",
+    "industry": "Financial services",
+    "planTier": "Enterprise",
+    "createdAt": "2026-02-22T23:53:58.884Z"
+  },
+  {
+    "id": "dd095f0d-ea8b-4f02-9fcc-1c7295d213fd",
+    "name": "Ward - Schamberger",
+    "companyName": "Ward - Schamberger",
+    "companySize": "11–50",
+    "industry": "Retail / e-commerce",
+    "planTier": "Free",
+    "createdAt": "2025-05-03T09:37:07.148Z"
+  },
+  {
+    "id": "a43a125e-b77a-4976-899c-a5603a914d30",
+    "name": "Hauck, Schuster and Gerhold",
+    "companyName": "Hauck, Schuster and Gerhold",
+    "companySize": "201–1,000",
+    "industry": "Manufacturing",
+    "planTier": "Free",
+    "createdAt": "2026-04-05T02:46:50.785Z"
+  },
+  {
+    "id": "03bad204-c731-4de3-900e-92f63e481295",
+    "name": "Ryan and Sons",
+    "companyName": "Ryan and Sons",
+    "companySize": "11–50",
+    "industry": "Healthcare",
+    "planTier": "Free",
+    "createdAt": "2025-02-15T16:52:48.900Z"
+  },
+  {
+    "id": "523e2242-4205-4d18-acf8-ade0698878c3",
+    "name": "Kassulke - O'Hara",
+    "companyName": "Kassulke - O'Hara",
+    "companySize": "51–200",
+    "industry": "Education",
+    "planTier": "Enterprise",
+    "createdAt": "2025-06-05T10:41:06.448Z"
+  },
+  {
+    "id": "ca2fe1d1-6b80-4b70-be35-a464d74b5087",
+    "name": "Luettgen LLC",
+    "companyName": "Luettgen LLC",
+    "companySize": "11–50",
+    "industry": "Software",
+    "planTier": "Free",
+    "createdAt": "2025-11-23T22:13:42.731Z"
+  }
+]

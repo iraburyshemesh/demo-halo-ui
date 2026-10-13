@@ -1,0 +1,51 @@
+{
+  "name": "halo-ui-kit",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Shared Mantine-based component library + synthetic Pendo usage dataset for the Halo demo app (iraburyshemesh/demo-hello-app).",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./data": {
+      "types": "./dist/data/index.d.ts",
+      "import": "./dist/data/index.js"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "generate:data": "node scripts/generate-usage-data.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "dependencies": {
+    "@mantine/core": "^9.2.0",
+    "@mantine/hooks": "^9.2.0",
+    "@tabler/icons-react": "^3.44.0",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.12"
+  }
+}
